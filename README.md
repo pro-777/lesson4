@@ -6,4 +6,4 @@ Converting Odoo 18 source code into a Docker image involves several key steps. F
 
 ##### please follow this youtube link to have the full viedo 
 
-https://youtu.be/rIP4Kiwut2U 
+https://hostcafe.info/aHWkN
